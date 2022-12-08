@@ -1,3 +1,1 @@
-
-  name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
+![snake gif](https://github.com/YOUR_USERNAME/FelipePatriota/blob/output/github-contribution-grid-snake.gif)
