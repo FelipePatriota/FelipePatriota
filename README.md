@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipepatriota&show_icons=true&theme=github_dark" />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepatriota&show_icons=true&theme=github_dark" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepatriota&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
 <div style="display: inline_block"><br>
