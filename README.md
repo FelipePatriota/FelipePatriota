@@ -25,7 +25,7 @@
 
 - 👨‍💻 Computer Engineering student.
 - 🚀 4° semester.
-- 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
+
 
  
   
