@@ -1,7 +1,6 @@
 
-## Hello World👋
-
-## I'm a Computer Engineering student, trying to improve every day. </h2>
+## Hello, World👋
+ I'm a Computer Engineering student, trying to improve every day. </h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
