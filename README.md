@@ -3,7 +3,7 @@
  I'm a Computer Engineering student, trying to improve every day. </h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipepatriota&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipepatriota&show_icons=true&theme=github_dark" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepatriota&layout=compact&hide_border=true" />
 </div>
