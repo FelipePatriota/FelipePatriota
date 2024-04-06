@@ -15,7 +15,7 @@
 </p>
 
 - 👨‍💻 Computer Engineering student.
-- 🚀 6° semester.
+- 🚀 7° semester.
 
 
  
