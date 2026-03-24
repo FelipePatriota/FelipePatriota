@@ -32,6 +32,12 @@
 name: Felipe Patriota
 role: Computer Engineering Student
 university: UFRPE / UABJ
-focus: [Artificial Intelligence, Data Analysis, Automation, Web & Mobile Solutions]
-mission: Building technology for education, mental health and real social impact
-location: Belo Jardim - PE, Brazil
+focus:
+  - Artificial Intelligence
+  - Software Development
+  - Automation
+  - Data Analysis
+  - Educational Technology
+  - Social Impact
+mission: Turning ideas into useful products that create real change
+mindset: Build with purpose. Learn with intensity. Improve every day.
