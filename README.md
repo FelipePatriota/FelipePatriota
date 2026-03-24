@@ -1,29 +1,37 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:1d4ed8,100:06b6d4&text=Felipe%20Patriota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20%7C%20Education%20%7C%20Social%20Impact&descAlignY=58&descSize=18" />
 
-## Hello, World👋
- I'm a Computer Engineering student, trying to improve every day. </h2>
+<div align="center">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipepatriota&layout=compact&hide_border=true&theme=github_dark" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+technology+with+purpose.;Founder+%26+CEO+at+ANIMUS.;Computer+Engineering+student+at+UFRPE%2FUABJ.;Creating+solutions+in+AI%2C+education+and+social+impact.)](https://git.io/typing-svg)
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepatriota&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <a href="https://github.com/Felipepatriota">
+    <img src="https://komarev.com/ghpvc/?username=Felipepatriota&style=for-the-badge&color=0ea5e9" alt="Profile views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipepatriota/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/Felipepatriota_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/olafeh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="mailto:feh.patriota@outlook.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
-</p>
 
-- 👨‍💻 Computer Engineering student.
-- 🚀 10° semester.
+---
 
+## 👨‍💻 About Me
 
- 
-  
-</p>
-
- <div> 
-  <a href="https://instagram.com/Felipepatriota_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/olafeh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "feh.patriota@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipepatriota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+```yaml
+name: Felipe Patriota
+role: Computer Engineering Student
+university: UFRPE / UABJ
+focus: [Artificial Intelligence, Data Analysis, Automation, Web & Mobile Solutions]
+mission: Building technology for education, mental health and real social impact
+location: Belo Jardim - PE, Brazil
